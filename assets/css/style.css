@@ -93,6 +93,7 @@ header button:hover {
 }
 
 .hero {
+  padding-top: 75px;
   background-color: #ffc017;
   position: relative;
   border-bottom: 1px solid black;
