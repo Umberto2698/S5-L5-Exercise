@@ -5,6 +5,6 @@ header.addEventListener("scroll", (event) => {
   console.log(event);
 });
 
-onscroll = (event) => {
-  console.log(event);
-};
+// onscroll = (event) => {
+//   console.log(event);
+// };
